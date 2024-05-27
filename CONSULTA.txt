@@ -1,0 +1,64 @@
+IMAGEN 
+la misma imagen tiene diferentes tamaños por lo que tiene varias direcciones (ubicaciones)
+TEXTO DE LA IMAGEN
+hay que considerarlo para el cuerpo de la noticia o no
+-------------------------------------------------------
+
+CUANDO BUSCAMOS LOS 10 ENLACES DE PRIMER NIVEL LOS DE SEGUNDO NO TIENEN QUE ESTAR REPETIDOS
+PERO POR EJM CUANDO VAMOS BUSCANDO ENLACE POR ENLACE EN ALGUNO DE ESOS LINK DE PRIMER NIVEL VAN A APARECER REPETIDOS QUE YA
+HAYAMOS ENCONTRADOS DE DE SEGUNDO NIVEL QUE DE ALGUN OTRO DE PRIMER NIVEL
+ESTA BIEN ASI O LOS DE SEGUNDO NIVEL TAMPOCO SE TIENE QUE REPETIR NINGUNO
+
+
+COMO EXTRAER DE REDES SOCIALES
+como se hace con el logueo de usuarios
+como se analiza sentimientos con los mensajes  o sea como se accede a esos mensajes si son privados y sino como se hace para conseguir
+como se evalua la imagen del presidente
+
+SEGURIDAD 
+COMO AVERIGUAR O NO INFRIGIR SI NO TIENE UN ROBOT.txt
+
+
+framework como scrapy, selenium, nos sirven en el curso se puede utilizar
+que tan potentes son en comparacion con el curso que estamos haciendo o nos conviene aprenderlos 
+
+CUANDO NO SE PUEDE UTILIZAR LA API SE REFIERE A LA API PUBLICA, O CUALQUIER FORMA DE ACCEDER A LA API?
+
+
+x('//a[starts-with(@href, "https:")]/@href').map(x=>x.value)  30
+
+$x('//a/@href').map(x=>x.value) 330
+
+
+
+import requests
+import lxml.html as html
+import os
+
+def extract_links(url, nivel): 
+       response = requests.get(url)
+       parsed = html.fromstring(response.content)
+       #paragraphs = parsed.xpath('//div[@class="body-article"]/*')
+       links_sin_https = parsed.xpath('//a[not(starts-with(@href, "https:"))]/@href')
+       links_with_https = parsed.xpath('//a[starts-with(@href, "https:")]/@href')
+       links_1=set(["hola","san"])
+       links_1.clear()
+       for p in links_sin_https:
+               #text = p.xpath('string()')
+               links_1.add('https://eltribunodejujuy.com'+p)
+                #print('https://eltribunodejujuy.com'+p)
+                #print(links_1)
+                #print("="*20)
+                #print(len(links_1))
+        
+        for p in links_with_https:
+            links_1.add(p)
+
+        with open(f'linksTribuno/{nivel}.txt', 'w', encoding='utf-8') as f:               #manejador contextual si el archivo se cierra mantiene todo seguro
+             for link in links_1:
+                f.write(link)
+                f.write('\n')
+
+url = 'https://eltribunodejujuy.com/'
+nivel="nivel1"
+extract_links(url, nivel)

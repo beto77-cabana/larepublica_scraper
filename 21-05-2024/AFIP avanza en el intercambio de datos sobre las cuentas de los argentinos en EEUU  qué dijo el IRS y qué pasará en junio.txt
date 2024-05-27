@@ -1,0 +1,62 @@
+Título:
+AFIP avanza en el intercambio de datos sobre las cuentas de los argentinos en EEUU  qué dijo el IRS y qué pasará en junio
+
+Resumen:
+El organismo fiscal argentino dio a conocer los detalles de este operativo que en junio se reflejará en un simulacro informático; cuál será el alcance del traspaso de información
+
+Imágenes:
+https://www.infobae.com/new-resizer/quAR8k_tbcARSyzaxk5mU7MvsYk=/420x315/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/M5X5474HMRH2FD3N2FVFKMIPOA.jpeg
+https://www.infobae.com/new-resizer/5WPGywX0f80Qiqrysl_wE-_5NK0=/420x560/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/5ZVZNTYNQBA3DGITOM7HMSY65Q.jpg
+https://www.infobae.com/new-resizer/TO1p_X6trbWW7PPpUymBUV83oFk=/420x280/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/ESOVDLYURSWYMIYYE6RTKPNW54.jpg
+
+
+Cuerpo de la Noticia:
+El intercambio automático de información entre la AFIP y el Servicio de Impuestos Internos de los Estados Unidos (IRS) avanza: el organismo norteamericano publicó la vigencia del acuerdo y su par argentino realizará el mes próximo un simulacro de sistemas para el traspaso de datos de septiembre.
+La AFIP indicó que el IRS “confirmó que la Argentina cuenta con las medidas de seguridad de datos y la infraestructura adecuadas para realizar de manera efectiva el primer intercambio automático de información financiera, programado para el próximo mes de septiembre”.
+Se trata de la publicación de un mensaje del año pasado, que convalida el avance de este intercambio por el cual la AFIP recibirá información de las cuentas de los argentinos en Estados Unidos.
+Esa publicación del IRS indicaba que “Ecuador se añade a la lista de jurisdicciones con las que los Estados Unidos tienen en vigor un acuerdo de intercambio de información pertinente. Argentina y Kazajstán se añaden a la lista de países con los que el Tesoro y el IRS han determinado que es apropiado tener una relación de intercambio automático con respecto a la información recopilada en virtud de Treasury Regulation 1.6049-4(b) (5) y 1.6049-8(a)”, referido a los intereses y descuento por emisión original pagados a determinados extranjeros no residentes.
+Argentina también aparece en el listado del IRS con las jurisdicciones de residencia a las que se aplica la obligación de informar sobre los intereses de los depósitos.
+Según destacó hoy el organismo que conduce Florencia Misrahi, “el Acuerdo Fatca entre Argentina y EEUU se firmó en diciembre de 2022. Desde entonces, la AFIP trabaja para hacer efectivo el primer intercambio de información, herramienta que permite combatir la evasión fiscal y mejorar el cumplimiento tributario”.
+Por este motivo, como informó Infobae, “la administradora federal, Florencia Misrahi, se reunió con las principales entidades y asociaciones bancarias, así como con otros organismos involucrados en el régimen de información financiera (FATCA) y puso a su disposición las especificaciones técnicas necesarias para adaptar los sistemas de remisión de la información”.
+Las claves del intercambio de datos con EEUU
+El experto Sebastián Domínguez detalló las 10 claves del acuerdo de intercambio de información entre Argentina y Estados Unidos:
+1. ¿En qué casos Estados Unidos informará a la Argentina datos de cuentas abiertas en instituciones financieras?
+Estados unidos enviará determinada información de cuentas de depósito en entidades bancarias, en la medida que el titular de la cuenta sea una persona humana residente en la Argentina y se paguen en esa cuenta más de USD 10 de intereses en cualquier momento del año.
+2. ¿A qué tipo de cuentas se denominan cuentas de depósito?
+Se considera Cuenta de Depósito a toda cuenta comercial, cuenta corriente, caja de ahorros, cuenta a plazo o cuenta de ahorros u otra cuenta documentada mediante un certificado de depósito, de ahorro, de inversión, de deuda u otro instrumento similar, abierto en una Institución Financiera en el ejercicio ordinario de su actividad bancaria o similar en Estados Unidos.
+3. En casos de superar los USD 10 de intereses en el año, ¿Qué información recibirá la Argentina?
+En caso de superar los USD 10 de intereses, Estados Unidos enviará la siguiente información:
+a) Nombre y apellido, dirección y CUIT del residente argentino titular de la cuenta de depósito.
+b) Número de la cuenta de depósito.
+c) Nombre y número de identificación de la Institución Financiera Estadounidense Sujeta a Declarar.
+d) El monto bruto de intereses pagados en la Cuenta de Depósito.
+4. ¿Qué información de cuentas de depósito Estados Unidos NO enviará a la Argentina?
+Por ejemplo, Estados Unidos:
+- No reportará saldos de las cuentas de depósito, sino solamente intereses en los casos que corresponda.
+- No reportará montos brutos de intereses pagados si la cuenta es de titularidad de otro tipo de sujetos residentes en Argentina que no sean personas humanas como son las sociedades anónimas, sociedades de responsabilidad limitada, fideicomisos, fundaciones, etc.
+- No reportará Información de una cuenta savings de titularidad de una sociedad anónima residente en argentina en la que se cobraron más de USD 10 de intereses durante el año.
+- No reportará información de una cuenta checking abierta de titularidad de una persona humana residente en argentina en la que no se cobraron intereses durante el año.
+5. ¿En qué casos Estados Unidos informará a la Argentina datos de cuentas financieras abiertas en instituciones financieras de ese país?
+Estados Unidos enviará determinada información de cuentas financieras distintas de las cuentas de depósito mencionadas anteriormente cuando se cobren dividendos de fuente de Estados Unidos y/u otros ingresos de fuente de Estados Unidos pagados o acreditados en la cuenta, en la medida que esté sujetos a ser declarados conforme al capítulo 3 del subtítulo A o el capítulo 61 del subtítulo F del Código de Impuestos Internos de Estados Unidos, en ambos casos, sin importar el monto.
+6. ¿También se aplica en parámetro de más de USD 10 para reportar la información a la Argentina?
+No, en el caso de las cuentas financieras mencionadas, no hay un monto límite hasta el cual no se reporta la información.
+Si se encuadra en la situación descripta, la información será remitida sin importar el monto de los dividendos y/u otros ingresos reportables.
+7. ¿Qué información de cuentas financieras recibirá la Argentina?
+En caso de cuentas financieras reportables de acuerdo al punto anterior, Argentina recibirá la siguiente información:
+a) Nombre y apellido, Razón Social o denominación, dirección y CUIT del residente argentino titular de la cuenta financiera.
+b) Número de la cuenta financiera.
+c) Nombre y número de identificación de la Institución Financiera Estadounidense Sujeta a Declarar.
+d) El monto bruto de dividendos de fuente de Estados Unidos pagados en el año en la cuenta.
+e) El monto bruto de otros ingresos de fuente de Estados Unidos pagados o acreditados en la cuenta, en la medida que estén sujetos a ser declarados conforme al capítulo 3 del subtítulo A o el capítulo 61 del subtítulo F del Código de Impuestos Internos de Estados Unidos.
+8. ¿Qué información de cuentas financieras Estados Unidos NO enviará a la Argentina?
+Por ejemplo, Estados Unidos:
+- NO reportará saldos de las cuentas financieras sino solamente los dividendos y otros ingresos mencionados cuando corresponda.
+- NO reportará información de sociedades no residentes en Argentina por más que los beneficiarios finales sean residentes en la Argentina.
+- NO reportará el cobro de dividendos distribuidos por la participación en una Sociedad Europea ya que no son de fuente de Estados Unidos.
+9. ¿Cuándo recibirá la información Argentina?
+El intercambio de información está vigente y la información que enviará Estados Unidos será desde el 1 de enero de 2023 en adelante.
+La AFIP ha informado en su sitio web que están cumplidos los requisitos para que se realice el primer intercambio de información en el mes de Septiembre de 2024 respecto a la información de 2023.
+10. ¿Se va a conocer la información recibida por la Argentina antes que finalice la primera etapa del blanqueo?
+El proyecto del paquete fiscal que tiene media sanción de la Cámara de Diputados, contempla un blanqueo cuya primera etapa finaliza el 30 de noviembre de 2024 con requisitos a cumplir al 30 de septiembre de 2024.
+En caso de ser convertido en ley, a esa fecha se podrá conocer si Estados Unidos envió la información pero no los detalles de la misma.
+Considerando la experiencia previa, en la que la AFIP tarda un tiempo considerable en procesar y poner a disposición la información obtenida a través del acuerdo de intercambio multilateral de información “CRS”, existe la posibilidad de que el período de blanqueo llegue a su fin antes de que esta información esté disponible.

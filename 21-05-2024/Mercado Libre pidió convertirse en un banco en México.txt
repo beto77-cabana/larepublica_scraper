@@ -1,0 +1,22 @@
+Título:
+Mercado Libre pidió convertirse en un banco en México
+
+Resumen:
+Según le dijo Osvaldo Giménez, presidente de Mercado Pago, a la agencia Bloomberg, la empresa no tiene licencia bancaria en los demás países donde opera y no busca tenerla porque puede brindar los servicios deseados bajo los marcos actuales
+
+Imágenes:
+https://www.infobae.com/new-resizer/ikALe2L7x5GawLrAYeX9UZSLWsk=/420x236/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/35QNGD4XAZE5PAOAT3VKC2DKH4.jpg
+https://www.infobae.com/new-resizer/UGnAMisTH3QscWgF6cumChF6E1s=/420x236/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/NDUNI65ZSBALRIBOBBHWWQTJZM.jpg
+
+
+Cuerpo de la Noticia:
+Mercado Libre estudia solicitar una licencia bancaria en México para cumplir con las regulaciones que le impone el Gobierno de ese país. Lo confirmó Osvaldo Giménez, presidente de Mercado Pago, la unidad fintech de Mercado Libre, a la agencia Bloomberg.
+“La oportunidad es fenomenal. Vemos en México lo que pasó en Brasil durante la última década, donde hubo un enorme aumento en el acceso a la banca, los pagos electrónicos y el crédito”, dijo Giménez en una entrevista a la agencia de noticias estadounidense. “Queremos ser protagonistas de esto y eso nos permitirá lanzar más productos”, agregó.
+“La licencia bancaria facilitará muchas cosas, desde cómo ofrecemos crédito a los usuarios hasta cómo podemos ofrecer productos de inversión”, afirmó Giménez. “Con la escala que ya tenemos y la ambición que tenemos de ser el banco digital más grande de América Latina, este paso va en la dirección correcta”, expresó.
+“Estamos muy entusiasmados con lo que estamos viendo en México”, dijo el ejecutivo de Mercado Pago. “Hemos visto un gran crecimiento en nuestros productos, el mercado, las opciones de pago y el crédito. Es por eso que estamos haciendo tanta inversión, recientemente trasladamos nuestra oficina a un espacio más grande y estamos contratando”, cerró.
+Licencia
+Hasta ahora, Mercado Libre ha estado operando en México con una licencia fintech conocida como IFPE, que le permite ofrecer una serie de servicios, incluida la aplicación de billetera de la compañía. Pero hay servicios que no está habilitado a prestar y para los que necesita una licencia bancaria, como recibir depósitos de nómina y la eliminación de un límite en los montos retenidos. 
+El proceso de aprobación y emisión de tarjetas de crédito también sería más rápido.
+Según declaró el propio Giménez a Bloomberg, la empresa no tiene licencia bancaria en los demás países donde opera y no busca tenerla porque puede brindar los servicios deseados bajo los marcos actuales. Es decir: la falta de regulación en otros países, entre los que se encuentra la Argentina, le permite a Mercado Libre y a Mercado Pago ofrecer servicios para los que no está autorizado.
+Mercado Libre está registrado en el BCRA pero no tiene autorización para captar e intermediar fondos del público. No podría hacerlo sin una Licencia de Entidad Financiera según la Ley 21.526. Sin embargo, desde 2016, capta fondos del público a través de sus cuentas de pago. Luego los deposita en diferentes bancos o los deriva al mercado de capitales por medio de FCI (Fondos Comunes de Inversión). Esta operación es irregular según la Ley de Entidades financieras. Sin embargo, cuenta con la tolerancia del BCRA.
+En otros países donde opera Mercado Libre, como Brasil, Colombia y ahora México, las regulaciones son más estrictas y obligan a Mercado Libre a competir en igualdad de condiciones.
